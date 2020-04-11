@@ -3,4 +3,4 @@ Play midi files on the Raspberry Pi using multiple piezo buzzers, wiringpi and p
 Requires Python 3.<br/>
 You also need <code>pip3 install wiringpi py-midicsv</code>.<br/>
 Comment if something's wrong.<br/>
-Example video using 4 buzzers (old video, the sound is clearer now as I implemented pitch correction): https://drive.google.com/file/d/1oaCoABTOWxztSN2mYQyV-tcPjTvAYslw/view
+Example playlist on Youtube: https://www.youtube.com/playlist?list=PLDa4Vj43E2e9bdgJLPYenDJvnHyA-Bi5w
